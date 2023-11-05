@@ -1,2 +1,3 @@
-# notebooks
-Notebooks for teaching and presentations
+# Notebooks
+Notebooks for teaching and presentations.
+
